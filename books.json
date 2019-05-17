@@ -1,0 +1,68 @@
+[
+    {
+        "bookFormats": {
+            "Read this book online: HTML": "//www.gutenberg.org/files/1342/1342-h/1342-h.htm",
+            "EPUB (with images)": "//www.gutenberg.org/ebooks/1342.epub.images?session_id=ad25a7e8dc2ae542bd57716d8476a18cd23b9a6e",
+            "EPUB (no images)": "//www.gutenberg.org/ebooks/1342.epub.noimages?session_id=ad25a7e8dc2ae542bd57716d8476a18cd23b9a6e",
+            "Kindle (with images)": "//www.gutenberg.org/ebooks/1342.kindle.images?session_id=ad25a7e8dc2ae542bd57716d8476a18cd23b9a6e",
+            "Kindle (no images)": "//www.gutenberg.org/ebooks/1342.kindle.noimages?session_id=ad25a7e8dc2ae542bd57716d8476a18cd23b9a6e",
+            "PDF": "//www.gutenberg.org/files/1342/1342-pdf.pdf?session_id=ad25a7e8dc2ae542bd57716d8476a18cd23b9a6e",
+            "Plain Text UTF-8": "//www.gutenberg.org/files/1342/1342-0.txt"
+        },
+        "title": "Pride and Prejudice by Jane Austen (1010)",
+        "author": "Austen, Jane, 1775-1817",
+        "language": "English"
+    },
+    {
+        "bookFormats": {
+            "Read this book online: HTML": "//www.gutenberg.org/files/43/43-h/43-h.htm",
+            "EPUB (with images)": "//www.gutenberg.org/ebooks/43.epub.images?session_id=f7467a789254bffae3559f2f0ab84804a9d174ea",
+            "EPUB (no images)": "//www.gutenberg.org/ebooks/43.epub.noimages?session_id=f7467a789254bffae3559f2f0ab84804a9d174ea",
+            "Kindle (with images)": "//www.gutenberg.org/ebooks/43.kindle.images?session_id=f7467a789254bffae3559f2f0ab84804a9d174ea",
+            "Kindle (no images)": "//www.gutenberg.org/ebooks/43.kindle.noimages?session_id=f7467a789254bffae3559f2f0ab84804a9d174ea",
+            "Plain Text UTF-8": "//www.gutenberg.org/files/43/43-0.txt"
+        },
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson (746)",
+        "author": "Stevenson, Robert Louis, 1850-1894",
+        "language": "English"
+    },
+    {
+        "bookFormats": {
+            "Read this book online: HTML": "//www.gutenberg.org/files/84/84-h/84-h.htm",
+            "EPUB (with images)": "//www.gutenberg.org/ebooks/84.epub.images?session_id=0b7de43f9428ea8e2460c67f3b57d1a0263bc708",
+            "EPUB (no images)": "//www.gutenberg.org/ebooks/84.epub.noimages?session_id=0b7de43f9428ea8e2460c67f3b57d1a0263bc708",
+            "Kindle (with images)": "//www.gutenberg.org/ebooks/84.kindle.images?session_id=0b7de43f9428ea8e2460c67f3b57d1a0263bc708",
+            "Kindle (no images)": "//www.gutenberg.org/ebooks/84.kindle.noimages?session_id=0b7de43f9428ea8e2460c67f3b57d1a0263bc708",
+            "Plain Text UTF-8": "//www.gutenberg.org/files/84/84-0.txt"
+        },
+        "title": "Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley (634)",
+        "author": "Shelley, Mary Wollstonecraft, 1797-1851",
+        "language": "English"
+    },
+    {
+        "bookFormats": {
+            "Read this book online: HTML": "//www.gutenberg.org/files/1251/1251-h/1251-h.htm",
+            "EPUB (with images)": "//www.gutenberg.org/ebooks/1251.epub.images?session_id=1977b07b802d54666a264f08faf084ba4524f3cb",
+            "EPUB (no images)": "//www.gutenberg.org/ebooks/1251.epub.noimages?session_id=1977b07b802d54666a264f08faf084ba4524f3cb",
+            "Kindle (with images)": "//www.gutenberg.org/ebooks/1251.kindle.images?session_id=1977b07b802d54666a264f08faf084ba4524f3cb",
+            "Kindle (no images)": "//www.gutenberg.org/ebooks/1251.kindle.noimages?session_id=1977b07b802d54666a264f08faf084ba4524f3cb",
+            "Plain Text UTF-8": "//www.gutenberg.org/ebooks/1251.txt.utf-8"
+        },
+        "title": "Le Morte d'Arthur: Volume 1 by Sir Thomas Malory (607)",
+        "author": "Malory, Thomas, Sir, -1471",
+        "language": "English"
+    },
+    {
+        "bookFormats": {
+            "Read this book online: HTML": "//www.gutenberg.org/files/844/844-h/844-h.htm",
+            "EPUB (with images)": "//www.gutenberg.org/ebooks/844.epub.images?session_id=fd2de6a9537cb57051fd1a8400e7c3a3039963d2",
+            "EPUB (no images)": "//www.gutenberg.org/ebooks/844.epub.noimages?session_id=fd2de6a9537cb57051fd1a8400e7c3a3039963d2",
+            "Kindle (with images)": "//www.gutenberg.org/ebooks/844.kindle.images?session_id=fd2de6a9537cb57051fd1a8400e7c3a3039963d2",
+            "Kindle (no images)": "//www.gutenberg.org/ebooks/844.kindle.noimages?session_id=fd2de6a9537cb57051fd1a8400e7c3a3039963d2",
+            "Plain Text UTF-8": "//www.gutenberg.org/ebooks/844.txt.utf-8"
+        },
+        "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People by Oscar Wilde (582)",
+        "author": "Wilde, Oscar, 1854-1900",
+        "language": "English"
+    }
+]
